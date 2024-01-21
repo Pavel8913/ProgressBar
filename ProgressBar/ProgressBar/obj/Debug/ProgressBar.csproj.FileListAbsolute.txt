@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
+C:\Users\User\Desktop\проекты программирование\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form2.resources
